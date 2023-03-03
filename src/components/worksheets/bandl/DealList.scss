@@ -1,0 +1,18 @@
+.l-deallist {
+    &.dl-ul {
+        list-style: none;
+        padding: 0;
+        width: 100%; 
+    .main.card {
+
+        .card-container {
+            &.blue-container {
+                border-color: var(--blue-500);
+            }
+        }
+    }
+    .accessory {
+
+    }
+    }
+} 

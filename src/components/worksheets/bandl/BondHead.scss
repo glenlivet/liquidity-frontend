@@ -1,0 +1,9 @@
+.l-bandlhead.card {
+
+    .card-container {
+        border: dashed;
+        &.blue-container {
+            border-color: var(--blue-500);
+        }
+    }
+} 
